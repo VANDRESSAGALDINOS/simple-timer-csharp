@@ -18,3 +18,4 @@ Thumbs.db
 .vs/
 **/TestResults/
 **/node_modules/
+.vscode/
